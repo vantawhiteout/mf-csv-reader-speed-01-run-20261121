@@ -1,0 +1,6 @@
+{
+  "name": "fast-csv-reader-drop-in",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module"
+}
